@@ -19,6 +19,11 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[[menu.main]]
+name = "Hypersistence Optimizer"
+pre = "#"
+url = "https://vladmihalcea.com/hypersistence-optimizer/"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"

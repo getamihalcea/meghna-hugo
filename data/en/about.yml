@@ -1,0 +1,31 @@
+---
+about:
+  enable: true
+  image_webp: images/posts/voxxedbucharest.webp
+  image: images/posts/voxxedbucharest.jpg
+  title: Our Services
+  content: " Hypersistence is a software company offering optimization software, training, and consulting in relation to high-performance data access, enterprise software architectures, and database systems."
+  about_item:
+
+  - icon: ti-stats-up
+    title: Optimizer
+    href: https://vladmihalcea.com/hypersistence-optimizer/
+    content: The Hypersistence Optimizer framework allows you to detect JPA and Hibernate mapping and configuration issues. Besides providing you a very detailed report about the issues found in your application, you can configure Hypersistence Optimizer to prevent the build from succeeding when a given performance issue is detected.
+  - icon: ti-user
+    title: Training and workshops
+    href: https://vladmihalcea.com/hypersistence-optimizer/
+    content: "Hypersistence aims to help you get the most out of your data access layer.
+    If you’re struggling with performance issues due to improper use of data access technologies such as JDBC,
+    JPA or Hibernate, then we might help.Check out the training section page for more details."
+  - icon: ti-id-badge
+    title: Consulting
+    href: https://vladmihalcea.com/hypersistence-optimizer/
+    content: If you want to get the most out of your data access layer, then you’ve come at the right place.You can now hire a Java Champion, who actually worked on the Hibernate project, to review your application and tell you how to optimize it. For more details, check out the consulting page.
+  - icon: ti-book
+    title: Books
+    href: https://vladmihalcea.com/hypersistence-optimizer/
+    content: We love writing books. High-Performance Java Persistence is written by Vlad Mihalcea, the founder of Hypersistence.
+  - icon: ti-video-camera
+    title: Video courses
+    href: https://vladmihalcea.com/hypersistence-optimizer/
+    content: We love creating awesome content. The High-Performance Java Persistence video course is recorded and edited by Vlad Mihalcea, the founder of Hypersistence.

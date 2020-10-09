@@ -1,0 +1,6 @@
+############################### Banner ################################
+banner:
+  enable : true
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "HYPERSISTENCE"
+  

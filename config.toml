@@ -1,0 +1,105 @@
+baseURL = "https://examplesite.com"
+disableLanguages = ["En"]
+disqusShortname = ""
+paginate = "6"
+summaryLength = "15"
+theme = "meghna-hugo"
+
+
+[[menu.main]]
+name = "Contact"
+url = "https://hypersistence.io/contact/"
+weight = 7
+[[menu.main]]
+name = "Blog"
+url = "http://vladmihalcea.com/blog/"
+weight = 6
+[[menu.main]]
+name = "Consulting"
+url = "https://vladmihalcea.com/consulting/"
+weight = 5
+[[menu.main]]
+name = "Training"
+url = "https://vladmihalcea.com/trainings/"
+weight = 4
+[[menu.main]]
+name = "Courses"
+url = "https://vladmihalcea.com/courses"
+weight = 3
+[[menu.main]]
+name = "Books"
+url = "https://vladmihalcea.com/books/high-performance-java-persistence/"
+weight = 2
+[[menu.main]]
+name = "Hypersistence Optimizer"
+url = "https://vladmihalcea.com/hypersistence-optimizer/"
+weight = 1
+
+multiLineLiteralString = '''
+We love data!
+Hypersistence is a software company offering optimization software, training, and consulting in relation to high-performance data access, enterprise software architectures, and database systems.
+
+Optimizer
+The Hypersistence Optimizer framework allows you to detect JPA and Hibernate mapping and configuration issues. Besides providing you a very detailed report about the issues found in your application, you can configure Hypersistence Optimizer to prevent the build from succeeding when a given performance issue is detected.
+
+Check out the following video demonstration to get a better idea of how Hypersistence Optimizer can help you speed up your application.'''
+
+[params]
+author = "Themefisher"
+description = "Responsive Multipurpose Parallax Hugo Template"
+google_analytics_id = ""
+post_share = true
+[params.cookies]
+enable = false
+expire_days = 2
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+[params.preloader]
+enable = false
+preloader = "images/logo.png"
+[[params.social]]
+icon = "ti-facebook"
+link = "#"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+[[params.social]]
+icon = "ti-youtube"
+link = "#"
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
+[[params.social]]
+icon = "ti-dribbble"
+link = "#"
+[[params.social]]
+icon = "ti-pinterest"
+link = "#"

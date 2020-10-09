@@ -25,11 +25,6 @@ pre = "#"
 url = "https://vladmihalcea.com/books/high-performance-java-persistence/"
 weight = 2
 [[menu.main]]
-name = "Hypersistence Optimizer"
-pre = "#"
-url = "https://vladmihalcea.com/hypersistence-optimizer/"
-weight = 1
-[[menu.main]]
 name = "Contact"
 pre = "#"
 url = "https://hypersistence.io/contact/"

@@ -3,8 +3,9 @@ label: Post
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: HYPERSISTENCE
+  label: HYPERSISTENCE
+  hidden: false
 - type: datetime
   name: date
   label: date

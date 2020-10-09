@@ -6,9 +6,7 @@ fields:
   name: HYPERSISTENCE
   label: HYPERSISTENCE
   hidden: false
-- type: datetime
-  name: date
-  label: date
+  description: "<strong>HYPERSISTENCE</strong>"
 - type: text
   name: author
   label: author
@@ -16,10 +14,20 @@ fields:
 - type: file
   name: image_webp
   label: image webp
+  default: "/images/voxxedbucharest-1.webp"
 - type: file
   name: image
   label: image
+  default: "/images/voxxedbucharest-1.jpg"
 - type: text
   name: description
   label: description
-  description: meta description
+  description: We love data!Hypersistence is a software company offering optimization
+    software, training, and consulting in relation to high-performance data access,
+    enterprise software architectures, and database systems.OptimizerThe Hypersistence
+    Optimizer framework allows you to detect JPA and Hibernate mapping and configuration
+    issues. Besides providing you a very detailed report about the issues found in
+    your application, you can configure Hypersistence Optimizer to prevent the build
+    from succeeding when a given performance issue is detected.Check out the following
+    video demonstration to get a better idea of how Hypersistence Optimizer can help
+    you speed up your application.

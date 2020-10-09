@@ -20,6 +20,10 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+name = "Books"
+url = "https://vladmihalcea.com/books/high-performance-java-persistence/"
+weight = 2
+[[menu.main]]
 name = "Hypersistence Optimizer"
 pre = "#"
 url = "https://vladmihalcea.com/hypersistence-optimizer/"

@@ -19,26 +19,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-name = "Blog"
-pre = "#"
-url = "http://vladmihalcea.com/blog/"
-weight = 6
-[[menu.main]]
-name = "Consulting"
-pre = "#"
-url = "https://vladmihalcea.com/consulting/"
-weight = 5
-[[menu.main]]
-name = "Training"
-pre = "#"
-url = "https://vladmihalcea.com/trainings/"
-weight = 4
-[[menu.main]]
-name = "Courses"
-pre = "#"
-url = "https://vladmihalcea.com/courses"
-weight = 3
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"

@@ -1,27 +1,61 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : true
+  enable: true
   title: Testimonials
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
-  testimonial_item :
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+    - name: Kevin Peters
+      image: images/client/KevinPeters.jpg
+      image_webp: images/client/KevinPeters.webp
+      about: (Software Engineer - codecentric AG)
+      content: "It really pays off when it comes to analyzing complex applications.
+      For architectures that are difficult to manage, it quickly provides clues for further analysis.
+      This is a huge help both when setting up a new implementation and when optimizing a legacy application."
+
     # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
+    - name: Maciej Walkowiak
+      image: images/client/MaciejWalkowiak.jpg
+      image_webp: images/client/MaciejWalkowiak.webp
+      about: (Freelance Tech Lead)
+      content: "Hypersistence optimizer is like pair programming with Vlad.
+      “Let's face it, JPA and Hibernate are very powerful but not simple tools. Even experienced developers make mistakes that may result in very heavy database queries, dramatically lowering overall application performance.
+      Hypersistence Optimizer feels like an additional team member - a JPA expert that is there to help and show how can you optimize your mappings and configurations before you ship them to production.”"
+
     # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name: Rafael Winterhalter
+      image: images/client/RafaelWinterhalter.jpg
+      image_webp: images/client/RafaelWinterhalter.webp
+      about: Java Champion
+      content: "There is no resource that better summarizes the performance implications of using JDBC, either directly or via JPA and Hibernate. If you are talking to a database on the JVM, add this book to your reading shelf."
+
+    # testimonial item loop
+    - name: Antonio Goncalves
+      image: images/client/AntonioGoncalves.jpg
+      image_webp: images/client/AntonioGoncalves.webp
+      about: Java Champion
+      content: "Writing a book is difficult, but writing a book about performance and persistence is a real challenge.
+      If you want to understand how locking, sharding, replication, database concurrency control work, then this book is for you.
+      Vlad gives you plenty of tips and tricks on Hibernate, helping you diagnose your performance issues (e.g. mapping, fetching, or caching).
+      I learn a lot by reading his book and I highly recommend it if you use relational databases and ORM tools such as Hibernate."
+
+    # testimonial item loop
+    - name: Jean-Claude Brantschen
+      image: images/client/JeanClaudeBrantschen.jpg
+      image_webp: images/client/JeanClaudeBrantschen.webp
+      about: Software Engineer
+      content: "A wonderful journey into the world of java and databases.
+      With High-Performance Java Persistence Mach 1, Vlad takes us on a wonderful journey into the world of Java and databases.
+      We start with the JDBC fundamentals and work piece by piece into the layers of Hibernate.
+      With videos, slides and a huge repository, Vlad guides us through the pitfalls of the different technologies and gives us lots of tips and tricks on our way that you would not find elsewhere.
+      From a software developer’s perspective, I highly recommend High-Performance Java Persistence Mach 1. And best of all: the journey continues with Mach 2."
+
+    # testimonial item loop
+    - name: Zenko Turek
+      image: images/client/Zenko.jpg
+      image_webp: images/client/Zenko.webp
+      about: (Technical Architect)
+      content: "Excellent addition to the ebook.
+      “I found the High-Performance Java Persistence video course to be a comprehensive training and an excellent addition to the ebook.
+      It is an effective way to get to the next stage of JPA knowledge.”"

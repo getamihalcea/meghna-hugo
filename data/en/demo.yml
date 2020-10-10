@@ -1,0 +1,8 @@
+---
+demo:
+  enable: true
+  title: Optimizer Demo
+  content: " Check out the following video demonstration to get a better idea of how Hypersistence Optimizer can help you speed up your application."
+
+  demo_item:
+  - href: https://vladmihalcea.com/hypersistence-optimizer/

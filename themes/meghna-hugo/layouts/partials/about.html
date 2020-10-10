@@ -33,7 +33,7 @@
 					<div class="content text-center">
 						<h3>{{ .title }}</h3>
 						<a href="{{ .href }}">
-							<p>{{ .content  }}</p>
+							<p>{{ .content | safeHTML }}</p>
 						</a>
 					</div>
 				</div>

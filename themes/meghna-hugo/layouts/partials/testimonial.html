@@ -35,7 +35,7 @@
 								<p>{{ .about }}</p>
 							</div>
 							<div class="client-comment">
-								<p>{{ .content | markdownify }}</p>
+								<p>{{ .content | safeHTML }}</p>
 							</div>
 						</div>
 					</div>

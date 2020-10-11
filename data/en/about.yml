@@ -16,17 +16,19 @@ about:
     href: https://vladmihalcea.com/trainings/
     content: >
       Hypersistence aims to help you get the most out of your data access layer. <br/><br/>
-      If you’re struggling with performance issues due to improper use of data access technologies such as JDBC, JPA or Hibernate, then we might help.
+      If you’re struggling with performance issues due to improper use of data access technologies such as JDBC, JPA or Hibernate, then we might help.<br/>
       Check out the training section page for more details.
   - icon: ti-id-badge
     title: Consulting
     href: https://vladmihalcea.com/consulting/
-    content: If you want to get the most out of your data access layer, then you’ve come at the right place.You can now hire a Java Champion, who actually worked on the Hibernate project, to review your application and tell you how to optimize it. For more details, check out the consulting page.
+    content: If you want to get the most out of your data access layer, then you’ve come at the right place.<br/>
+      You can now hire a Java Champion, who actually worked on the Hibernate project, to review your application and tell you how to optimize it. <br/>
+      For more details, check out the consulting page.
   - icon: ti-book
     title: Books
     href: https://vladmihalcea.com/books/high-performance-java-persistence/
-    content: We love writing books. High-Performance Java Persistence is written by Vlad Mihalcea, the founder of Hypersistence.
+    content: We love writing books.<br/><br/> High-Performance Java Persistence is written by Vlad Mihalcea, the founder of Hypersistence.
   - icon: ti-video-camera
     title: Video courses
     href: https://vladmihalcea.com/courses/
-    content: We love creating awesome content. The High-Performance Java Persistence video course is recorded and edited by Vlad Mihalcea, the founder of Hypersistence.
+    content: We love creating awesome content. <br/> The High-Performance Java Persistence video course is recorded and edited by Vlad Mihalcea, the founder of Hypersistence.

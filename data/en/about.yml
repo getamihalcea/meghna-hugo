@@ -4,7 +4,7 @@ about:
   image_webp: images/posts/voxxedbucharest.webp
   image: images/posts/voxxedbucharest.jpg
   title: Our Services
-  content: " Hypersistence is a software company offering optimization software, training, and consulting in relation to high-performance data access, enterprise software architectures, and database systems."
+  content: "Hypersistence is a software company offering optimization software, training, and consulting in relation to high-performance data access, enterprise software architectures, and database systems."
   about_item:
 
   - icon: ti-stats-up

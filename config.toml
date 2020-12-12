@@ -8,7 +8,7 @@ theme = "meghna-hugo"
 
 [[menu.main]]
 name = "Contact"
-url = "https://hypersistence.io/contact/"
+url = "https://twitter.com/Hypersistence"
 weight = 7
 [[menu.main]]
 name = "Blog"
@@ -45,9 +45,9 @@ The Hypersistence Optimizer framework allows you to detect JPA and Hibernate map
 Check out the following video demonstration to get a better idea of how Hypersistence Optimizer can help you speed up your application.'''
 
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
-google_analytics_id = ""
+author = "Vlad Mihalcea"
+description = "Hypersistence is here to help you get the most out of your database system."
+google_analytics_id = "UA-57447615-1"
 post_share = true
 [params.cookies]
 enable = false
